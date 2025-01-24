@@ -30,5 +30,5 @@ Faça o download e a instalação do Python através do site oficial: [Python.or
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/gerador-de-cpf.git
+   git clone https://github.com/FelipePrado200/gerador-de-cpf.git
    cd gerador-de-cpf
